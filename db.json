@@ -1,0 +1,28 @@
+ {
+  "services": [
+    {
+      "id": 1,
+      "title": "SEO Services",
+      "description": "Boost your search engine ranking."
+    },
+    {
+      "id": 2,
+      "title": "Content Marketing",
+      "description": "Create compelling content for your brand."
+    }
+  ],
+  "teamMembers": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "role": "SEO Specialist",
+      "image": "/assets/images/john.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "role": "Content Writer",
+      "image": "/assets/images/jane.jpg"
+    }
+  ]
+}
